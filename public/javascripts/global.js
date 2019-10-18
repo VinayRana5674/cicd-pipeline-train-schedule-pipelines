@@ -1,4 +1,5 @@
 var userListData = [];
+// This is a single line JavaScript comment
 
 $(document).ready(function() {
 
